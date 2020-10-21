@@ -1,0 +1,4 @@
+*.zip
+*__pycache__/*
+aiml/*
+*.DS_STORE
